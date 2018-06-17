@@ -1,0 +1,246 @@
+["Indagine esplorativa per conoscere i turisti interessati all'ambiente rurale e alla sostenibilità.\nIl questionario ha lo scopo di approfondire anche il rapporto fra chi svolge questa attività e l'utilizzo di tecnologie e servizi mobile su smartphone/tablet. \n\nRicordiamo a riguardo la definizione di Social Trekking (una forma di turismo sostenibile e responsabile) presa come riferimento:\n\n\"Il social trekking è una forma particolare di turismo che consiste in una camminata programmata lungo un territorio. E' gestito da gruppi di persone la cui identità si basa sull'instaurare forme strette di relazione. Tali gruppi seguono insieme un percorso tracciato che coinvolge direttamente le comunità rurali delle aree attraverso le quali questi gruppi di persone camminano\"  (Alessandro Vergari)\n\nContatti e Info: \n\nAlessandro Vergari (Walden Viaggi) alessandro_vergari@yahoo.it\nAlfonso Crisci (IBIMET CNR) a.crisci@bimet.cnr.it\nSonia Trampetti (IBIMET CNR)  s.trampetti@ibimet.cnr.it\nFrancesca Camilli  (IBIMET CNR)  f.camilli@ibimet.cnr.it\nValentina Grasso (LaMMA -CNR) grasso@lamma.rete.toscana.it\nSara Di Lonardo  (IBIMET CNR)  s.dilonardo@ibimet.cnr.it\n", [
+		[1860207870, "Informazioni Generali", null, 6],
+		[1559067749, "Classe di eta", null, 3, [
+			[1311209316, [
+				["0-20", null, -2],
+				["20-25", null, -2],
+				["25-30", null, -2],
+				["30-40", null, -2],
+				["40-50", null, -2],
+				["50-60", null, -2],
+				["60 e oltre", null, -2]
+			], 1]
+		]],
+		[288674228, "Sesso", null, 4, [
+			[484541198, [
+				["Uomo"],
+				["Donna"]
+			], 1]
+		]],
+		[2123166410, "Titolo di studio", "Indicare livello di formazione scolastica", 2, [
+			[519159887, [
+				["Diploma Maturità"],
+				["Laurea -  Discipline Umanistiche"],
+				["Laurea - Discipline Scientifiche"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[2131392427, "Professione", "Indicare genericamente il ruolo e area di impiego ( Pubblica Amministrazione - Privato) es : Impiegato, PA", 0, [
+			[1702739593, null, 1]
+		]],
+		[2024479375, "Residenza", "Indicare la citta di residenza e la provincia. Es: firenze, fi", 0, [
+			[2081902723, null, 1]
+		]],
+		[1115752580, "Nazionalità", "Indicare la propria ", 2, [
+			[1867168778, [
+				["Italiana"],
+				["Europea"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[568515180, "Esperienza di SocialTrekking", "Insieme di domande sulla propria esperienza nel Social Trekking", 6],
+		[1094275610, "Numero di esperienze di SocialTrekking svolte", null, 2, [
+			[900036239, [
+				["1"],
+				["2-5"],
+				["più di 5"]
+			], 1]
+		]],
+		[866167747, "Luogo di svolgimento prevalente", "Indicare le aree preferite delle esperienze fatte. Inidicare in other se esiste un luogo preciso.", 2, [
+			[957109530, [
+				["Toscana"],
+				["Italia"],
+				["Europa"],
+				["Extra-europee"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[1601668067, "Durata prevalente dell'esperienza di Social Trekking", null, 2, [
+			[2100674933, [
+				["Giornaliera"],
+				["2-5 giorni"],
+				["più di una settimana"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[1308717745, "Motivazione principale di interesse per il Social trekking", null, 2, [
+			[618694588, [
+				["..per i suoi aspetti ludici e di divertimento"],
+				["..per la socializzazione forte "],
+				["...per il suo rispetto etico dell'ambiente"],
+				["...per il contatto diretto con il territorio"],
+				["..per il suo elevato grado di contatto con la natura"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[1908939693, "Grado di soddisfazione delle esperienze di SocialTrekking", "Indicare la scala di gradimento", 5, [
+			[98430751, [
+				["1"],
+				["2"],
+				["3"],
+				["4"],
+				["5"]
+			], 1, ["Nullo", "Elevato"]]
+		]],
+		[506014443, "Preferenza di stile di conduzione del SocialTrekking ", "Rispetto al programma definito dall'operatore indicare se è più gradita una programmazione o un'apertura verso iniziative durante l'esperienza", 5, [
+			[127284825, [
+				["1"],
+				["2"],
+				["3"],
+				["4"],
+				["5"],
+				["6"],
+				["7"]
+			], 1, ["Rigido", "Aperto"]]
+		]],
+		[1804311488, "Offerta Turistica Social trekking", "Valutazione delle informazioni sulle proposte turistiche", 6],
+		[824625103, "Canale di conoscenza del SocialTrekking", null, 2, [
+			[1719630676, [
+				["Passaparola "],
+				["Web"],
+				["Materiale Informativo stampato"],
+				["Media tradizionali - Televisione Radio"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[606641148, "Pianificazione esperienza Social Trekking", "Operatore a cui ci si affida per pianificare il percorso", 2, [
+			[1263321011, [
+				["Agenzie specializzate"],
+				["Conoscenti /Amici"],
+				["Siti web dedicati"],
+				["Siti web istituzionali di promozione turistica"],
+				["Social Media ( Facebook,Twitter)"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[1897074306, "Facilità reperimento informazioni su percorsi di Socialtrekking", null, 4, [
+			[2075837713, [
+				["Si"],
+				["No"],
+				["Non so"]
+			], 1]
+		]],
+		[1298950453, "Le agenzie di promozione turistica in genere danno sufficienti informazioni turistiche?", null, 4, [
+			[1193538275, [
+				["Si"],
+				["No"],
+				["Non so"]
+			], 1]
+		]],
+		[1968221728, "Utilizzo tecnologie e SocialTrekking", null, 6],
+		[1996012752, "Utilizzo dispositivi mobile tipo cellulare-smartphone-tablet", "Indicare se si usano durante l'esperienza del SocialTrekking", 2, [
+			[365096107, [
+				["Si,sempre"],
+				["No,mai"],
+				["Solo in alcune volte"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[1294207393, "Tipo di dispositivo utilizzato in maniera prevalente", null, 2, [
+			[55468232, [
+				["Smartphone -Iphone"],
+				["Smartphone -Android"],
+				["Tablet-Ipad"],
+				["Tablet- Android"],
+				["Nokia"],
+				["Blackberry"],
+				["Non Android"],
+				["Cellulare."],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[1234283164, "Connettività mobile", "Indicare se si usano servizi di connettività continua", 2, [
+			[683542896, [
+				["Si"],
+				["No"],
+				["Utilizzo solo i punti Wifi"],
+				["Nessuna connettività"]
+			], 0]
+		]],
+		[1508610088, "Grado di utilizzo tecnologie e servizi mobile", null, 5, [
+			[1381492140, [
+				["1"],
+				["2"],
+				["3"],
+				["4"],
+				["5"]
+			], 1, ["Poco", "Molto"]]
+		]],
+		[1358744826, "Servizi utilizzati specificatamente per fare Socialtrekking", null, 2, [
+			[855231197, [
+				["GPS -geolocalizzazione"],
+				["Informazioni Meteo"],
+				["Informazioni di tipo logistico per il viaggio ( ristorazione e pernottamento."],
+				["Infromazioni storico-culturali"],
+				["Informazioni naturalistiche e sull'ambiente attraversato"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[2097525775, "Servizi di comunicazione", null, 2, [
+			[1973773972, [
+				["Per mantenere il contatto con persone  e familiari esterni al SocialTrekking"],
+				["Per effettuare comunicazioni interne con il gruppo di partecipanti e la guida."],
+				["Entrambi i punti precedenti"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[1627522871, "Servizi di multimedialità delle tecnologie mobile sono utili per:", null, 2, [
+			[1412636732, [
+				["Per prendere foto e documentare il viaggio"],
+				["Per prendere note del viaggio"],
+				["Per fare della comunicazione istantanea"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[44971888, "Social Media e Socialtrekking", "Informazioni all'utilità dei canali social media per il Social Trekking", 6],
+		[572674634, "Familiarità con le piattaforma di Social Networks -Social Media", null, 5, [
+			[228478843, [
+				["1"],
+				["2"],
+				["3"],
+				["4"],
+				["5"],
+				["6"],
+				["7"]
+			], 1, ["Nulla", "Molto"]]
+		]],
+		[1952872364, "Credi che i social media sono degli strumenti idonei per la condivisione dell'esperienza come quella del Social Trekking?", null, 5, [
+			[1114998808, [
+				["1"],
+				["2"],
+				["3"],
+				["4"],
+				["5"],
+				["6"],
+				["7"]
+			], 1, ["Nulla", "Molto"]]
+		]],
+		[1684655320, "Quali piattaforme utilizzi in generale come Social Media?", null, 2, [
+			[1098658686, [
+				["Facebook"],
+				["Facebook e Twitter"],
+				["Badoo"],
+				["What's Up?"],
+				["Foursquare"],
+				["", null, null, null, 1]
+			], 1]
+		]],
+		[143145900, "Svantaggi dell'uso dei Social Media", "Se puoi indicare e spiegare quali sono i disagi eventuali provati dall'uso dei Social media", 1, [
+			[1663062262, null, 0]
+		]],
+		[1911619174, "Credi che i social media possono svolgere un attività promozionale per il SocialTrekking?", null, 5, [
+			[1696322595, [
+				["1"],
+				["2"],
+				["3"],
+				["4"],
+				["5"]
+			], 1, ["Nulla", "Molto"]]
+		]],
+		[1401975022, "Termine questionario", "Ti ringraziamo per aver risposto a queste domande. ", 6],
+		[2126967728, "Se vuoi essere informato sulla ricerca e partecipare.", "Lascia i tuoi contatti mail / facebook/ twitter ( opzionale)", 1, [
+			[1687169116, null, 0]
+		]]
+	],
+	["Your response has been recorded.", 1, 0, 0], null, ["0AX42CRMsmRFbUy1kN2NjY2Y0Mi1iYWFmLTQxMWMtYjM0NC04NmZmYTIwZDRkMGQ"], null, null, null, "SocialTrekking Questionnaire", 38, null, null, null, null, null, [2]
+]
